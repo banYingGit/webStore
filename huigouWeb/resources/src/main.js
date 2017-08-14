@@ -4,10 +4,8 @@ import Vue from 'vue'
 import App from './App'
 import router from './router'
 import Resource from 'vue-resource'
+import '../src/assets/style/newStyle.css'
 import Mint from 'mint-ui'
-import '@/assets/javascript/layout'
-import 'mint-ui/lib/style.min.css'
-import '@/assets/style/newStyle.css'
 
 Vue.use(Resource)
 Vue.use(router)
