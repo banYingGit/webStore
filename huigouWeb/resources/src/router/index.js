@@ -24,6 +24,21 @@ export default new Router({
       path: '/user.html',
       name: 'User',
       component: User
+    },
+    {
+      path: '/login.html',
+      name: 'Login',
+      component: Login
+    },
+    {
+      path: '/register.html',
+      name: 'Register',
+      component: Register
+    },
+    {
+      path: '/forget.html',
+      name: 'Forget',
+      component: Forget
     }
   ]
 })
