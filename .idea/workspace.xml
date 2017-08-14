@@ -2,323 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58b2532c-9b35-420c-b110-dc72a8ea29b4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/resources/src/assets/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/resources/static/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/.idea/vue-webPack.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/.bin/mime" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/.bin/mime.cmd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/accepts/HISTORY.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/accepts/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/accepts/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/accepts/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/accepts/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/array-flatten/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/array-flatten/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/array-flatten/array-flatten.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/array-flatten/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/content-disposition/HISTORY.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/content-disposition/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/content-disposition/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/content-disposition/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/content-disposition/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/content-type/HISTORY.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/content-type/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/content-type/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/content-type/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/content-type/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/cookie-signature/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/cookie-signature/History.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/cookie-signature/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/cookie-signature/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/cookie-signature/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/cookie/HISTORY.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/cookie/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/cookie/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/cookie/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/cookie/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/debug/.coveralls.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/debug/.eslintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/debug/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/debug/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/debug/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/debug/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/debug/Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/debug/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/debug/component.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/debug/karma.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/debug/node.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/debug/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/debug/src/browser.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/debug/src/debug.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/debug/src/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/debug/src/node.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/depd/History.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/depd/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/depd/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/depd/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/depd/lib/browser/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/depd/lib/compat/callsite-tostring.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/depd/lib/compat/event-listener-count.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/depd/lib/compat/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/depd/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/destroy/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/destroy/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/destroy/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/destroy/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/ee-first/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/ee-first/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/ee-first/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/ee-first/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/encodeurl/HISTORY.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/encodeurl/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/encodeurl/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/encodeurl/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/encodeurl/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/escape-html/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/escape-html/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/escape-html/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/escape-html/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/etag/HISTORY.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/etag/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/etag/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/etag/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/etag/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/express/History.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/express/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/express/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/express/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/express/lib/application.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/express/lib/express.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/express/lib/middleware/init.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/express/lib/middleware/query.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/express/lib/request.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/express/lib/response.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/express/lib/router/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/express/lib/router/layer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/express/lib/router/route.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/express/lib/utils.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/express/lib/view.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/express/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/finalhandler/HISTORY.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/finalhandler/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/finalhandler/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/finalhandler/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/finalhandler/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/forwarded/HISTORY.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/forwarded/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/forwarded/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/forwarded/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/forwarded/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/fresh/HISTORY.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/fresh/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/fresh/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/fresh/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/fresh/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/http-errors/HISTORY.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/http-errors/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/http-errors/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/http-errors/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/http-errors/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/inherits/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/inherits/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/inherits/inherits.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/inherits/inherits_browser.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/inherits/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/ipaddr.js/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/ipaddr.js/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/ipaddr.js/Cakefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/ipaddr.js/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/ipaddr.js/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/ipaddr.js/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/ipaddr.js/ipaddr.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/ipaddr.js/lib/ipaddr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/ipaddr.js/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/ipaddr.js/src/ipaddr.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/ipaddr.js/test/ipaddr.test.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/media-typer/HISTORY.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/media-typer/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/media-typer/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/media-typer/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/media-typer/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/merge-descriptors/HISTORY.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/merge-descriptors/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/merge-descriptors/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/merge-descriptors/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/merge-descriptors/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/methods/HISTORY.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/methods/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/methods/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/methods/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/methods/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/mime-db/HISTORY.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/mime-db/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/mime-db/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/mime-db/db.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/mime-db/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/mime-db/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/mime-types/HISTORY.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/mime-types/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/mime-types/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/mime-types/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/mime-types/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/mime/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/mime/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/mime/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/mime/build/build.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/mime/build/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/mime/cli.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/mime/mime.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/mime/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/mime/types.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/ms/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/ms/license.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/ms/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/ms/readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/negotiator/HISTORY.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/negotiator/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/negotiator/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/negotiator/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/negotiator/lib/charset.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/negotiator/lib/encoding.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/negotiator/lib/language.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/negotiator/lib/mediaType.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/negotiator/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/on-finished/HISTORY.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/on-finished/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/on-finished/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/on-finished/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/on-finished/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/parseurl/HISTORY.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/parseurl/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/parseurl/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/parseurl/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/parseurl/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/path-to-regexp/History.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/path-to-regexp/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/path-to-regexp/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/path-to-regexp/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/path-to-regexp/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/proxy-addr/HISTORY.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/proxy-addr/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/proxy-addr/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/proxy-addr/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/proxy-addr/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/qs/.editorconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/qs/.eslintignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/qs/.eslintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/qs/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/qs/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/qs/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/qs/dist/qs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/qs/lib/formats.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/qs/lib/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/qs/lib/parse.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/qs/lib/stringify.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/qs/lib/utils.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/qs/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/qs/test/.eslintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/qs/test/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/qs/test/parse.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/qs/test/stringify.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/qs/test/utils.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/range-parser/HISTORY.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/range-parser/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/range-parser/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/range-parser/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/range-parser/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/send/HISTORY.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/send/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/send/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/send/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/send/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/serve-static/HISTORY.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/serve-static/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/serve-static/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/serve-static/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/serve-static/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/setprototypeof/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/setprototypeof/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/setprototypeof/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/setprototypeof/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/statuses/HISTORY.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/statuses/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/statuses/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/statuses/codes.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/statuses/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/statuses/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/type-is/HISTORY.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/type-is/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/type-is/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/type-is/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/type-is/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/unpipe/HISTORY.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/unpipe/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/unpipe/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/unpipe/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/unpipe/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/utils-merge/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/utils-merge/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/utils-merge/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/utils-merge/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/utils-merge/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/vary/HISTORY.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/vary/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/vary/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/vary/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/node_modules/vary/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/package-lock.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/read.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/resources/.babelrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/resources/.editorconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/resources/.eslintignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/resources/.eslintrc.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/resources/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/resources/.postcssrc.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/resources/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/resources/build/build.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/resources/build/check-versions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/resources/build/dev-client.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/resources/build/dev-server.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/resources/build/utils.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/resources/build/vue-loader.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/resources/build/webpack.base.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/resources/build/webpack.dev.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/resources/build/webpack.prod.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/resources/build/webpack.test.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/resources/config/dev.env.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/resources/config/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/resources/config/prod.env.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/resources/config/test.env.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/resources/gulpfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/resources/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/resources/package-lock.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/resources/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/resources/src/App.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/resources/src/assets/javascript/filter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/resources/src/assets/javascript/layout.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/resources/src/assets/style/color.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/resources/src/assets/style/goods.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/resources/src/assets/style/index.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/resources/src/assets/style/newStyle.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/resources/src/assets/style/newStyle.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/resources/src/assets/style/other.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/resources/src/assets/style/user.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/resources/src/components/Hello.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/resources/src/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/resources/src/router/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/resources/test/e2e/custom-assertions/elementCount.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/resources/test/e2e/nightwatch.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/resources/test/e2e/runner.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/resources/test/e2e/specs/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/resources/test/unit/.eslintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/resources/test/unit/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/resources/test/unit/karma.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/resources/test/unit/specs/Hello.spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/resources/src/assets/javascript/common.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/resources/src/components/common/FooterMenu.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/resources/src/components/common/HeaderTop.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/resources/src/components/goods/GoodsList.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/resources/src/components/index/Index.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/huigouWeb/resources/src/components/user/User.vue" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/huigouWeb/resources/src/assets/style/color.less" afterPath="$PROJECT_DIR$/huigouWeb/resources/src/assets/style/color.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/huigouWeb/resources/src/assets/style/newStyle.css" afterPath="$PROJECT_DIR$/huigouWeb/resources/src/assets/style/newStyle.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/huigouWeb/resources/src/assets/style/newStyle.less" afterPath="$PROJECT_DIR$/huigouWeb/resources/src/assets/style/newStyle.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/huigouWeb/resources/src/router/index.js" afterPath="$PROJECT_DIR$/huigouWeb/resources/src/router/index.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -331,8 +25,136 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/huigouWeb/resources/src/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#140#161#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="layout.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/huigouWeb/resources/src/assets/javascript/layout.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="filter.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/huigouWeb/resources/src/assets/javascript/filter.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="common.ts" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/huigouWeb/resources/src/assets/javascript/common.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Index.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/huigouWeb/resources/src/components/index/Index.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="310">
+              <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+              <folding>
+                <element signature="e#164#217#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GoodsList.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/huigouWeb/resources/src/components/goods/GoodsList.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="13" column="23" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+              <folding>
+                <element signature="e#164#217#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HeaderTop.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/huigouWeb/resources/src/components/common/HeaderTop.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="User.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/huigouWeb/resources/src/components/user/User.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="4" column="10" lean-forward="false" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FooterMenu.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/huigouWeb/resources/src/components/common/FooterMenu.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="268">
+              <caret line="30" column="37" lean-forward="false" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue File" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/huigouWeb/resources/src/assets/style/color.less" />
+        <option value="$PROJECT_DIR$/huigouWeb/resources/src/components/common/headerTop.vue" />
+        <option value="$PROJECT_DIR$/huigouWeb/resources/src/assets/style/newStyle.less" />
+        <option value="$PROJECT_DIR$/huigouWeb/resources/src/components/common/footerMenu.vue" />
+        <option value="$PROJECT_DIR$/huigouWeb/resources/src/router/index.js" />
+        <option value="$PROJECT_DIR$/huigouWeb/resources/src/components/index/Index.vue" />
+        <option value="$PROJECT_DIR$/huigouWeb/resources/src/components/goods/GoodsList.vue" />
+        <option value="$PROJECT_DIR$/huigouWeb/resources/src/components/common/HeaderTop.vue" />
+        <option value="$PROJECT_DIR$/huigouWeb/resources/src/components/user/User.vue" />
+        <option value="$PROJECT_DIR$/huigouWeb/resources/src/components/common/FooterMenu.vue" />
+        <option value="$PROJECT_DIR$/huigouWeb/resources/src/assets/javascript/common.ts" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -385,6 +207,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -473,6 +296,178 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="router" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webStore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webStore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="huigouWeb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webStore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webStore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="huigouWeb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="user" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webStore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webStore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="huigouWeb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="index" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webStore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webStore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="huigouWeb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="goods" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webStore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webStore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="huigouWeb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="common" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webStore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webStore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="huigouWeb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="assets" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -507,9 +502,38 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webStore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webStore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="huigouWeb" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javascript" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -526,8 +550,128 @@
     <property name="node.js.path.for.package.jscs" value="project" />
     <property name="node.js.selected.package.jscs" value="" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="F:/pack/20170805" />
     <property name="js.buildTools.gulp.gulp_package_dir" value="E:\webStore\huigouWeb\resources\node_modules\gulp" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\webStore\huigouWeb\resources\src\components\goods" />
+      <recent name="E:\webStore\huigouWeb\resources\src\components\common" />
+      <recent name="E:\webStore\huigouWeb\resources\src\components\index" />
+    </key>
+  </component>
+  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
+    <UpdatedFiles>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Updated from server" />
+        <option name="myStatusName" value="Changed on server" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="CHANGED_ON_SERVER" />
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated" />
+          <option name="myStatusName" value="Changed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UPDATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/huigouWeb/resources/src/assets/style/user.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/huigouWeb/resources/src/components/user/login.vue</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Created" />
+          <option name="myStatusName" value="Created" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CREATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/huigouWeb/resources/src/components/user/forget.vue</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/huigouWeb/resources/src/components/user/register.vue</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Deleted" />
+          <option name="myStatusName" value="Deleted" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="true" />
+          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Restored" />
+          <option name="myStatusName" value="Will be restored" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="RESTORED" />
+        </FILE-GROUP>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Modified" />
+        <option name="myStatusName" value="Modified" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MODIFIED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Skipped" />
+        <option name="myStatusName" value="Skipped" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SKIPPED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with conflicts" />
+        <option name="myStatusName" value="Will be merged with conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_CONFLICTS" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with tree conflicts" />
+        <option name="myStatusName" value="Merged with tree conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with property conflicts" />
+        <option name="myStatusName" value="Will be merged with property conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged" />
+        <option name="myStatusName" value="Will be merged" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Not in repository" />
+        <option name="myStatusName" value="Not in repository" />
+        <option name="mySupportsDeletion" value="true" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="UNKNOWN" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally added" />
+        <option name="myStatusName" value="Locally added" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_ADDED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally removed" />
+        <option name="myStatusName" value="Locally removed" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_REMOVED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Switched" />
+        <option name="myStatusName" value="Switched" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SWITCHED" />
+      </FILE-GROUP>
+    </UpdatedFiles>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -542,6 +686,17 @@
     </option>
   </component>
   <component name="RunManager">
+    <configuration default="false" name="autoCss" type="js.build_tools.gulp" factoryName="Gulp.js" temporary="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile>$PROJECT_DIR$/huigouWeb/resources/gulpfile.js</gulpfile>
+      <tasks>
+        <task>autoCss</task>
+      </tasks>
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <method />
     </configuration>
@@ -608,6 +763,14 @@
       <recursive>false</recursive>
       <method />
     </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Gulp.js.autoCss" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Gulp.js.autoCss" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -624,41 +787,299 @@
       <workItem from="1502421094181" duration="18000" />
       <workItem from="1502421204971" duration="139000" />
     </task>
+    <task id="LOCAL-00001" summary="全局样式">
+      <created>1502695401323</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1502695401323</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="292000" />
+    <option name="totallyTimeSpent" value="4999000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
     <layout>
-      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973656" sideWeight="0.5056543" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973656" sideWeight="0.49434572" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973656" sideWeight="0.32471728" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973656" sideWeight="0.6752827" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.45178765" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973656" sideWeight="0.5056543" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973656" sideWeight="0.49434572" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="processedProjectFiles" value="true" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="全局样式" />
+    <option name="LAST_COMMIT_MESSAGE" value="全局样式" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/huigouWeb/resources/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="44" lean-forward="false" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#140#161#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huigouWeb/resources/src/components/common/HeaderTop.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="14" lean-forward="false" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huigouWeb/resources/src/components/index/Index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="26" lean-forward="false" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huigouWeb/resources/src/router/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="48" lean-forward="false" selection-start-line="2" selection-start-column="48" selection-end-line="2" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huigouWeb/resources/src/assets/style/newStyle.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="16" lean-forward="true" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huigouWeb/resources/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="44" lean-forward="false" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#140#161#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huigouWeb/resources/src/components/common/HeaderTop.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huigouWeb/resources/src/components/index/Index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="41" lean-forward="true" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huigouWeb/resources/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#140#161#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huigouWeb/resources/src/components/Hello.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huigouWeb/resources/src/assets/style/color.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="21" column="21" lean-forward="true" selection-start-line="21" selection-start-column="21" selection-end-line="22" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huigouWeb/resources/src/assets/style/newStyle.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="54" column="1" lean-forward="true" selection-start-line="54" selection-start-column="1" selection-end-line="54" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Documents/WeChat Files/laohushangshu/Files/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="15" column="44" lean-forward="false" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="44" />
+          <folding>
+            <element signature="e#140#161#0" expanded="true" />
+            <marker date="1502693025656" expanded="false" signature="0:139" ph="//..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huigouWeb/resources/src/components/user/User.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="10" lean-forward="false" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huigouWeb/resources/src/components/common/HeaderTop.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huigouWeb/resources/src/components/goods/GoodsList.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="13" column="23" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding>
+            <element signature="e#164#217#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huigouWeb/resources/src/components/index/Index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+          <folding>
+            <element signature="e#164#217#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huigouWeb/resources/src/router/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="21" column="6" lean-forward="true" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huigouWeb/resources/src/components/common/FooterMenu.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="30" column="37" lean-forward="false" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huigouWeb/resources/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#140#161#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huigouWeb/resources/src/assets/javascript/layout.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huigouWeb/resources/src/assets/javascript/filter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huigouWeb/resources/src/assets/javascript/common.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
