@@ -24,6 +24,9 @@
         }
       }
     },
+    mounted: function () {
+      console.log('this resURl!', this.src)
+    },
     components: {
       HeaderTop: HeaderTop,
       FooterMenu: FooterMenu

@@ -7,6 +7,7 @@
     <mt-button size="large">立即登录</mt-button>
     <router-link to="register.html" class="register">立即注册</router-link>
     <div class="aa"><p>使用第三方账户登录</p></div>
+
   </div>
 </template>
 
@@ -15,13 +16,8 @@
     name: 'login',
     data: function () {
       return {
-        account: '小桥流水人5555家',
-        aa: 12
-      }
-    },
-    methods: {
-      handleClick: function () {
-        this.$toast('Hello world!')
+        username: '',
+        password: ''
       }
     }
   }

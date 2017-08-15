@@ -3,6 +3,7 @@
  */
 import Vue from 'vue'
 import Resource from 'vue-resource'
+
 Vue.use(Resource)
 Vue.use({
   install: function (Vue, options) {

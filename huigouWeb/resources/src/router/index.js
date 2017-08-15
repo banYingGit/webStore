@@ -5,6 +5,9 @@ import Index from '@/components/index/Index'
 import GoodsList from '@/components/goods/GoodsList'
 /* 个人中心 */
 import User from '@/components/user/User'
+import Login from '@/components/user/Login'
+import Register from '@/components/user/Register'
+import Forget from '@/components/user/Forget'
 
 Vue.use(Router)
 

@@ -13,12 +13,12 @@ Vue.use(router)
 Vue.use(Mint)
 Vue.config.productionTip = false
 
-import {hi} from '@/assets/javascript/filter'
+import {commonData} from '@/assets/javascript/common'
 /* eslint-disable no-new */
 new Vue({
   el: '#app',
   router,
   template: '<App/>',
   components: {App},
-  mixins: [hi]
+  mixins: [commonData]
 })
